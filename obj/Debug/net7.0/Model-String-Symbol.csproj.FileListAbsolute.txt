@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\obj\Debug\net7.0\Model-String-Symbol.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\obj\Debug\net7.0\Model-String-Symbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\obj\Debug\net7.0\Model-String-Symbol.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\obj\Debug\net7.0\Model-String-Symbol.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\obj\Debug\net7.0\Model-String-Symbol.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\bin\Debug\net7.0\Model-String-Symbol.exe
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\bin\Debug\net7.0\Model-String-Symbol.deps.json
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\bin\Debug\net7.0\Model-String-Symbol.runtimeconfig.json
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\bin\Debug\net7.0\Model-String-Symbol.dll
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\bin\Debug\net7.0\Model-String-Symbol.pdb
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\obj\Debug\net7.0\Model-String-Symbol.dll
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\obj\Debug\net7.0\refint\Model-String-Symbol.dll
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\obj\Debug\net7.0\Model-String-Symbol.pdb
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\obj\Debug\net7.0\Model-String-Symbol.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\hildatok\dotnet\Model-String-Symbol\obj\Debug\net7.0\ref\Model-String-Symbol.dll
