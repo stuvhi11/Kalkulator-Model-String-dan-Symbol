@@ -18,7 +18,7 @@ Contoh : 3 * 3 =   atau 3*3=
 ---
 ## Output
 ```output
-Hasil dari 3 * 3  9
+Hasil dari 3 * 3 = 9
 
 Apakah anda akan melakukan Program Perhitungan lagi? (ya/tidak)
 ```  
